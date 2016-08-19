@@ -1,4 +1,4 @@
-package hiker
+package myTest
 
 import ("testing")
 
