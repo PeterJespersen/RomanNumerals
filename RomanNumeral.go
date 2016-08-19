@@ -1,4 +1,4 @@
-package hiker
+package RomanNumeral
 
 func answer() int {
     return 6 * 7
